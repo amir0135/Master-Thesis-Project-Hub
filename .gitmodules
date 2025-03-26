@@ -1,0 +1,6 @@
+[submodule "ML_SME_FPGA-main"]
+	path = ML_SME_FPGA-main
+	url = https://github.com/amir0135/ML_SME_FPGA-main.git
+[submodule "Feedforward-Network"]
+	path = Feedforward-Network
+	url = https://github.com/amir0135/Feedforward-Network.git
